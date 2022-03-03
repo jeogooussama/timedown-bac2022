@@ -1,7 +1,7 @@
 //Remained on the secondary education certificate exams (BAC)
 //1000 milliseconds =1 Second
 
-let countDownDate = new Date('June 20,2022 23:59:59').getTime();
+let countDownDate = new Date('June 12,2022 23:59:59').getTime();
 
 let counter = setInterval(()=>{
     //Get Date Now
